@@ -35,7 +35,7 @@ You can access the Figma template [here](https://www.figma.com/file/RArvOWvvUsn8
 ## Usage
 - Clone the project with `git clone https://github.com/Eduardo-H/feedget.git`
 
-To be able to use this project, it is necessary to inform some enviroments variables on the <strong>server</strong> and <strong>mobile</strong> project. The server project uses the [MailTrap]() service to send emails, so your going to need to have an account on their platform. 
+To be able to use this project, it is necessary to inform some enviroments variables on the <strong>server</strong> and <strong>mobile</strong> project. The server project uses the [Mailtrap](https://mailtrap.io/) service to send emails, so your going to need to have an account on their platform. 
 
 Here's the template of the `.env` file that you need to create in the <strong>server</strong> project:
 ```javascript
